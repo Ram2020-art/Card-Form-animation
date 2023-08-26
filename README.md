@@ -28,4 +28,4 @@ This project is licensed under the MIT License.
 
 ## Screenshot
 
-[![Screenshot of the animated credit card form](https://i.imgur.com/example.png)]
+[![Screenshot of the animated credit card form](https://raw.githubusercontent.com/Ram2020-art/Card-Form-animation/main/IMG_20230826_141516.jpg)]
